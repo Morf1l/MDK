@@ -1,0 +1,11 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\bin\Debug\mdk.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\bin\Debug\mdk.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\bin\Debug\mdk.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\mdk\mdk\obj\Debug\mdk.pdb

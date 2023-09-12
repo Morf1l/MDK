@@ -28,5 +28,11 @@ namespace mdk
             pictureBox1.ImageLocation = @"C:\Users\Student2\Pictures\Ovcharka2.jpg";
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pictureBox1.ImageLocation = @"C:\Users\Student2\Pictures\Ovcharka3.jpg";
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+        }
     }
 }

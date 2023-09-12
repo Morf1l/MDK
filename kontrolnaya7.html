@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<meta charset="utf-8">
+	</meta>	
+	<title>Таблицы. Никитин, Шутов, ИСП 32</title>
+ </head>
+ <body>
+	<h1>
+		Простейшая таблица
+	</h1>
+	<table border=1>
+	<caption>
+		У таблицы может быть заголовок
+	</caption>
+	<tr>
+		<td>
+			Первая строка, первая ячейка
+		</td>
+		<td>
+			Первая строка, вторая ячейка
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Вторая строка,первая ячейка
+		</td>
+		<td>
+			Вторая строка, вторая ячейка
+		</td>
+	</tr>
+	</table>
+	
+	<h2 align=center>
+		Таблица с объединением строк и столбцов
+	</h2>
+	<table border=3 align=center>
+		<tr> <th colspan=3> Заголовок на 3 столбца
+		<tr>
+			<th>Заголовок на 1 строку
+			<td>Ячейка 1
+			<td>Ячейка 2
+		</tr>
+		<tr>
+			<th rowspan=3> Заголовок на 3 строки
+			<td>Ячейка 3
+			<td>Ячейка 4
+		<tr><td>Ячейка 5 <td>Ячейка 6
+		<tr><td>Ячейка 7 <td>Ячейка 8
+	</table>
+	
+	<h2 align=center>
+		Успеваемость
+	</h2>
+	<table border=3 align=center>
+		<tr> <th colspan=3> Мои оценки
+		<tr height=70px >
+			<td width=30% align=left valign=top>
+				Наименование дисциплины
+			</td>
+			<td align=center>
+				1 курс
+			</td>
+			<td align=right valign=bottom>
+				2 курс
+			</td>
+		</tr>
+		<tr height=40px>
+			<td align=right valign=bottom>
+				Информатика
+			</td>
+			<td align=center>
+				хорошо
+			</td>
+			<td align=left valign=top>
+				отлично
+			</td>
+		</tr>
+		<tr height=40px>
+			<td align=right valign=bottom>
+				Математика
+			</td>
+			<td align=center>
+				отлично
+			</td>
+			<td align=left valign=top>
+				хорошо
+			</td>
+		</tr>
+		<tr height=40px>
+			<td align=right valign=bottom>
+				Физкультура
+			</td>
+			<td align=center >
+				хорошо
+			</td>
+			<td align=left valign=top>
+				хорошо
+			</td>
+	</table>
+	<p align=center>Роман Борисов, кафедра ИПИМ</p>
+ </body>
+</html>

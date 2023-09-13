@@ -1,0 +1,14 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\Peoples.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\Peoples.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\Peoples.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.CopyComplete
